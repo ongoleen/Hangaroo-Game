@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 secretWord = 'apple'
 lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
 def isWordGuessed(secretWord, lettersGuessed):
